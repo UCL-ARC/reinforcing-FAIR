@@ -76,7 +76,7 @@ Unesco defines Open Science as:
 
 This can be supported through a range of practices:
 
-
+![Turing Way to Open Science](images/TuringWay.jpg){alt='Open data, open software, open methods'}
 
 The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [The Turing Way Community & Scriberia (2024)](https://doi.org/10.5281/ZENODO.3332807).
 
