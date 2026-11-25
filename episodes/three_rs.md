@@ -6,18 +6,17 @@ exercises: 30 # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Are FAIR and open the same?
-- What is research integrity?
-- What is the relationship between FAIR, open and research integrity?
+- tbc
+- tbc
+- tbc
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Define FAIR
-- Define Open Science
-- Define research integrity
-- Describe synergies between FAIR, Open Science and Research Integrity
+- Define reproducibility, replication and robustness (3Rs) in the context of research
+- Describe how the 3Rs relate to research integrity
+- Describe the reproducibility crisis
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -34,66 +33,46 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Think, Pair, Share - What is FAIR?
+## Match terms to definitions
 
 This activity should take 10 minutes
 
-In pairs:
-- spend 2 minutes thinking about what FAIR means to you
-- spend 5 minutes discussing with your partner
-- share back your definition to the group
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## What is FAIR
+## Revisit Honesty and Transparency
 
-You can use standard markdown for static figures with the following syntax:
+Update with text
 
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-## What is Open Science?
-
-Unesco defines Open Science as:
 
 
 
 ::::::::::::::::::::::::::::::::::::: discussion 
 
-## Discussion - Similarities and differences between Open Science and FAIR
+## DDiscussion - 3Rs and research integrity
 
 This activity should take 10 minutes
 
-In pairs:
-- spend 2 minutes thinking about what FAIR means to you
-- spend 5 minutes discussing with your partner
-- share back your definition to the group
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: callout
 
-FAIR is not equal to Open
 
-They are sometimes used to emphasise particularly important points
-but are also used in some lessons to present "asides": 
-content that is not central to the narrative of the lesson,
-e.g. by providing the answer to a commonly-asked question.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Research Integrity
+## Introduction to replication crisis & retraction rates
 
-::::::::::::::::::::::::::::::::::::: discussion 
 
-## Discussion - How does FAIR and Open science support research integrity?
+
+::::::::::::::::::::::::::::::::::::: challenge 
+
+## Bouncing - factors leading to lack of reproducibility
 
 This activity should take 10 minutes
 
-In pairs:
-- spend 2 minutes thinking about what FAIR means to you
-- spend 5 minutes discussing with your partner
-- share back your definition to the group
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
